@@ -1,1 +1,0 @@
-Coursero project
