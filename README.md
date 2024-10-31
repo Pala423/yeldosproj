@@ -1,1 +1,1 @@
-# yeldosproj
+Coursero project
